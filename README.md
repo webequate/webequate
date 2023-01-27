@@ -1,4 +1,4 @@
-### Allen Johnson
+# Allen Johnson
 I am a full stack software engineer based in Denver, Colorado.
 <br>
 ## Connect with me
