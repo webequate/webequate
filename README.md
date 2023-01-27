@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a front end web developer based in Denver.
+I am a front end software engineer based in Denver, Colorado.
 <br>
 ## Connect with me
 <a href="https://www.linkedin.com/in/allenhjohnson">
