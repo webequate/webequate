@@ -1,5 +1,6 @@
 # Allen Johnson
-I am a full stack software engineer based in Denver, Colorado.
+## Senior Software Engineer - Front End / Full Stack
+Hello! My name is Allen and I am a senior software engineer based in Denver, Colorado. 
 <br><br>
 I am actively looking for a new opportunity as a remote Front End Software Engineer or Full Stack Software Engineer!
 <br><br>
@@ -11,7 +12,7 @@ In the months since Etsy, I have focused mostly on my own business, WebEquate. I
 <br><br>
 Now I am seeking a new full-time or part-time role, with a strong preference for fully remote. I am open to contract or employee roles.
 <br><br>
-Note: Most of my projects have been proprietary, are stored elsewhere, or cannot be made public. But, I am working gradually on being able to provide more public respositories here.
+Note:  Most of my projects have been proprietary, are stored elsewhere, or cannot be made public. But, I am working gradually on being able to provide more public respositories here.
 <br><br>
 ## Connect with me
 <a href="https://www.linkedin.com/in/allenhjohnson">
