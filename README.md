@@ -11,6 +11,8 @@ In the months since Etsy, I have focused mostly on my own business, WebEquate. I
 <br><br>
 Now I am seeking a new full-time or part-time role, with a strong preference for fully remote. I am open to contract or employee roles.
 <br><br>
+Note: Most of my projects have been proprietary, are stored elsewhere, or cannot be made public. But, I am working gradually on being able to provide more public respositories here.
+<br><br>
 ## Connect with me
 <a href="https://www.linkedin.com/in/allenhjohnson">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
