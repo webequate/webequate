@@ -1,5 +1,5 @@
 # Allen Johnson
-## Senior Software Engineer - Front End / Full Stack
+## Front End Software Engineer / Full Stack Web Developer
 Hello! My name is Allen and I am a senior software engineer based in Denver, Colorado. 
 <br><br>
 I am actively looking for a new opportunity as a remote **Front End Software Engineer** or **Full Stack Software Engineer**!
@@ -8,7 +8,7 @@ I have 20+ years of experience working in many different tech stacks. I am curre
 <br><br>
 I recently spent a year contracting with a team at **Etsy** which helped product engineers to use more modern front end development practices. By providing server-side rendering of **React** component islands, able to communicate through a shared **Redux** store, we facilitated the building of enhanced user experiences for Etsy customers, while still maintaining fast page load times, made possible by on-demand hydration of static content with interactive features.
 <br><br>
-In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, **MongoDB**, and **TailwindCSS**, to modernize web development workflow, streamline site updates, and enhance site speed.
+In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, and **MongoDB**, to modernize web development workflow, streamline site updates, and enhance site speed.
 <br><br>
 Now I am seeking a new full-time or part-time role, with a strong preference for fully remote. I am open to contract or employee roles.
 <br><br>
