@@ -6,7 +6,7 @@ I am a veteran front end software engineer with considerable full stack developm
 <br><br>
 I recently spent a year contracting with a team at **Etsy** to facilitate server-side rendering of **React** component islands, able to communicate through a shared **Redux** store. This helped product engineers to provide enhanced user experiences for Etsy customers, while still maintaining fast page load times, through on-demand hydration of static content with interactive features.
 <br><br>
-In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, and **MongoDB**, and deploy to Vercel, to modernize my development workflow, streamline site updates, and improve site performance.
+In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, and **MongoDB**, to modernize my development workflow, streamline site updates, and improve site performance.
 <br><br>
 Now I am seeking a new opportunity as a **Front End Software Engineer** or **Full Stack Software Engineer**, with a strong preference for fully remote roles.
 <br><br>
