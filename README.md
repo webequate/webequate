@@ -1,16 +1,16 @@
 # Allen Johnson
 ## Front End Software Engineer / Full Stack Web Developer
-Hello! My name is Allen and I am a senior software engineer based in Denver, Colorado. 
+I'm Allen Johnson. I live in Denver, Colorado.
 <br><br>
-I am actively looking for a new opportunity as a remote **Front End Software Engineer** or **Full Stack Software Engineer**!
+I am a veteran front end software engineer with considerable full stack development experience. I am most comfortable with **JavaScript / TypeScript**, **React**, **HTML**, and **CSS** in various environments, including **Node.js**, **PHP**, **Java**, and **Ruby on Rails**.
 <br><br>
-I have 20+ years of experience working in many different tech stacks. I am currently most familiar with **JavaScript / TypeScript**, **React / Redux / Next.js**, and **HTML / CSS** in various environments, including **Node.js**, **PHP**, and **Java**. I have worked in a wide range of industries, and in companies and teams of various sizes.
+I recently spent a year contracting with a team at **Etsy** to facilitate server-side rendering of **React** component islands, able to communicate through a shared **Redux** store. This helped product engineers to provide enhanced user experiences for Etsy customers, while still maintaining fast page load times, through on-demand hydration of static content with interactive features.
 <br><br>
-I recently spent a year contracting with a team at **Etsy** which helped product engineers to use more modern front end development practices. By providing server-side rendering of **React** component islands, able to communicate through a shared **Redux** store, we facilitated the building of enhanced user experiences for Etsy customers, while still maintaining fast page load times, made possible by on-demand hydration of static content with interactive features.
+In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, and **MongoDB**, and deploy to Vercel, to modernize my development workflow, streamline site updates, and improve site performance.
 <br><br>
-In the months since Etsy, I have focused mostly on my own business, **WebEquate**. I have been rebuilding websites previously built with **PHP** and **MySQL**, instead using **Next.js**, **React**, **TypeScript**, and **MongoDB**, to modernize web development workflow, streamline site updates, and enhance site speed.
+Now I am seeking a new opportunity as a **Front End Software Engineer** or **Full Stack Software Engineer**, with a strong preference for fully remote roles.
 <br><br>
-Now I am seeking a new full-time or part-time role, with a strong preference for fully remote. I am open to contract or employee roles.
+I also enjoy travel, hiking, photography, electronic music, and foreign languages.
 <br><br>
 **Note:**  Most of my projects have been proprietary, are stored elsewhere, or cannot be made public. But, I am working gradually on being able to provide more public respositories here.
 <br><br>
