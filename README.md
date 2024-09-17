@@ -2,7 +2,9 @@
 ## Full Stack Web Developer & Front End Software Engineer
 I'm Allen Johnson.
 <br><br>
-I am a veteran full stack developer and front end engineer based in Denver, Colorado. I am most comfortable with **JavaScript / TypeScript**, **React**, **HTML**, and **CSS** in various environments, including **Next.js**, **Node.js**, **PHP**, **Java**, and **Ruby on Rails**.
+I am a veteran full stack developer and front end engineer based in Denver, Colorado.
+<br><br>
+I am most comfortable with **JavaScript / TypeScript**, **React**, **HTML**, and **CSS** in various environments, including **Next.js**, **Node.js**, **PHP**, **Java**, and **Ruby on Rails**.
 <br><br>
 I recently spent a year contracting with a team at **Etsy** to facilitate server-side rendering of **React** component islands, able to communicate using a shared **Redux** store. This helped product engineers to provide enhanced user experiences for Etsy customers, while still maintaining fast page load times, through on-demand hydration of static content with interactive features.
 <br><br>
