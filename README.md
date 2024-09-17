@@ -1,6 +1,6 @@
 # Allen Johnson
 ## Full Stack Web Developer & Front End Software Engineer
-I'm Allen Johnson. I live in Denver, Colorado.
+I'm Allen Johnson.
 <br><br>
 I am a veteran full stack developer and front end engineer based in Denver, Colorado. I am most comfortable with **JavaScript / TypeScript**, **React**, **HTML**, and **CSS** in various environments, including **Next.js**, **Node.js**, **PHP**, **Java**, and **Ruby on Rails**.
 <br><br>
